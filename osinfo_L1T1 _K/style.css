@@ -1,0 +1,57 @@
+
+body{
+background-position:fixed; 
+}
+
+.header {
+
+    padding top:10px;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    position: sticky;
+    top:0;
+    background-color:white;
+
+  }
+  .nav-menu {
+    background-color:red;
+    position: fixed;
+    display: block;
+    position: sticky;
+    height:50px;
+
+
+            }
+
+.nav-item {
+float: left;
+display: block;
+color:black;
+text-align: center;
+padding:10px;
+width:250px;
+}
+
+.nav-link{
+font-size: 19px;
+
+color:white;
+}
+
+.nav-link:hover{
+color:pink;
+}
+.list{
+text-size:18px;
+color:blue;
+}
+table{
+height:400px;
+width:1000px;
+text-align: center;
+
+}
+.text{
+color:white;
+}
